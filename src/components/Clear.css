@@ -1,0 +1,10 @@
+.clear {
+  height: 70px;
+  background-color: grey;
+  width: 600px;
+  color: white;
+  display: flex;
+  font-size: 50px;
+  justify-content: center;
+  padding-top: 20px;
+}
